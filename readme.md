@@ -4,7 +4,7 @@ Follow along [Laracasts](https://laracasts.com) - [The Vast World of Vue.js](htt
 
 ### Install
 
-```
+```bash
 $ git clone git@github.com:appkr/components-vue.js.git
 $ composer install
 $ npm install && bower install && gulp
@@ -13,7 +13,7 @@ $ cd components-vue.js && touch storage/database.sqlite && php artisan migrate
 
 ### Run
 
-```
+```bash
 $ cd components-vue.js && php artisan serve
 $ open http://localhost:8000/checkout
 ```
